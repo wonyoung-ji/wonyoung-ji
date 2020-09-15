@@ -1,9 +1,9 @@
-### Studying Data Analysis
+### :sparkling_heart: Studying Data Analysis
 - especially Python, NPL, ML, DL, SQL, git
 - also studying statistic
 - expected to go high
 
-### Intersted in
+### :sparkling_heart: Intersted in
 - Translation (Eng to Kor)
 - Travel
 - Puppy
