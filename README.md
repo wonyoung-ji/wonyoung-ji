@@ -1,5 +1,5 @@
 ### :sparkling_heart: Studying Data Analysis
-- especially Python, NPL, ML, DL, SQL, git
+- especially Python, NLP, ML, DL, SQL, git
 - also studying statistics
 - expected to go high
 
