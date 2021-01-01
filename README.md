@@ -1,6 +1,6 @@
 ### :sparkling_heart: Studying Data Analysis
 - especially Python, SQL, statistics
-- studinyg ML and DL
+- studying ML and DL
 
 ### :sparkling_heart: Intersted in
 - Translation (Eng to Kor)
